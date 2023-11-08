@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front end<br>🤝 Estou a procura de Estagio<br>🤝 Cursando Tecnologo em Analise e Desenvolvimento de Sistemas<br>🌱 2 - Semestre<br>💬 Noção básic com HTML, CSS, Javascript, PHP<br>⚡ Flexibilidade para aprender e lidar com novas tecnologias
+🔭 Sou estudante de Front end<br>🤝 Estou a procura de Estagio<br>🤝 Cursando Tecnologo em Analise e Desenvolvimento de Sistemas<br>🌱 2 - Semestre<br>💬 Noção básic com HTML, CSS, Javascript, PHP, Banco de Dados (PostgreSQL)<br>⚡ Flexibilidade para aprender e lidar com novas tecnologias
 
 
 # 💻 Tech Stack:
